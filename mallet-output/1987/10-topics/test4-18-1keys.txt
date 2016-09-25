@@ -1,0 +1,10 @@
+0	0.04649	khoa_học nội học việt nam viện ban tự_điển việt_nam vương vietnam thuật xã_hội kỹ_thuật hội_nghị vân thể nông_nghiệp hội từ_điển 
+1	0.03836	của minh họa các bia nghiên_cứu bìa nông cây tập khoa_học đức nghiệp tôi hoa quá địa kỹ_thuật niên kềt 
+2	0.0395	tiểu người của văn thuyềt gián_điệp hổng hoàng tiểu_luận trường đổng tho luận thơ một bình thuyẽt nguyễn_trãi lịch_sử i.e 
+3	0.11375	của trong việt_nam cách_mạng việt nam một dân_tộc các quôc chủ_nghĩa xã_hội mới những cuộc chiền xây_dựng xã_hội_chủ tranh nghĩa 
+4	0.11549	tập truyện những truyện_ngắn người của truyện_ký mùa nước tiểu_thuyềt hoa và_ký sông ngày đổng tập_truyện việt_nam tập_thơ đường anh_hùng 
+5	0.02475	lực_lượng tây nhân_dân vũ_trang nguyên làm nghệ_thuật phẩn anh_hùng những chien trẻ trang nghĩa_vụ ra_sức hái đầu thắng cách góp 
+6	0.06173	việt_nam của thứ hội đảng ban nhiệm_vụ công_tác tại lần quân_đội chính dân lịch đổng đáng học năm thông chính_trị 
+7	0.0192	anh việt kinh vietnamese tâm giả the thích hùng dụng giá hai đôi huỳnh lào vietnamese_dictionary điến như điện hong 
+8	0.05431	biên của văn dịch phạm soạn chú nguyên xuân giới việt_nam toàn chủ thái quang trần thích việt trương cao 
+9	0.05948	thứ lẩn lần thơ việt bổ_sung truyện lớp giáo dục nam chữa công_dân bản của ngắn sứa hà_nội sửa văn 

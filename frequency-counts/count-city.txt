@@ -1,0 +1,442 @@
+Hanoi	2016
+Saigon	1139
+Paris	31
+Glendale	29
+Lancaster	21
+Fort Smith	18
+Hue	16
+Cholon	14
+Ho Chi Minh City	11
+Los Alamitos	11
+San Diego	8
+Toronto	8
+Houston	6
+Bruxelles	5
+Los Angeles	5
+Manila	5
+Berkeley	4
+San Jose	4
+California	3
+Culver City	3
+Dalat	3
+Gia-dinh	3
+Sceaux	3
+Arlington	2
+Campbell	2
+Garden Grove	2
+Montreal	2
+Santa Fe Springs	2
+Seattle	2
+Tay-ninh	2
+United States	2
+1979	1
+1980	1
+1981	1
+1983	1
+3 1955	1
+5t55 1978	1
+8k9 Orien Viet  81 1563	1
+8v86 Orien Viet 79 9843	1
+9 N486 1956	1
+9 S6b3 1980	1
+A1k48 1962	1
+A2c3	1
+A53 1982	1
+A6h5522	1
+A8v53 Orien Viet 79 9840	1
+A8x39 1980	1
+Akademiai Kiadó	1
+Alexandria	1
+Án Hành Làn Thú 1	1
+Án Hành Làn Thú 2	1
+B388 1982	1
+Bắc Hái Vân	1
+Bài Thơ Tháng Bẫy	1
+Bàn Vê Nhũng Cuôc Đâu Tranh Tu Tương Trong Lịch Su Vãn Học Việt-nam Hiện Đại	1
+Bảng Đôi Chiều Âm Dương Lịch 2000	1
+Báo Cáo Chính Tri Của Chính Phủ Tại Kỳ Họp Thứ 6 Quồc Hội Khóa Iii Tháng 6 Nảm 1970	1
+Báo Cáo Chính Tri Đọc Tại Đại Hôi Đại Biếu Toàn Quồc Lấn Thứ Nhât Tháng 2-1951	1
+Báo Cáo Dọc Tại Đại Hội Đại Biếu Toàn Quồc	1
+Báo Cáo Đọc Tại Đại Hội Đại Biểu Toàn Quồc	1
+Beijing	1
+Bên Giông Lịch Sư	1
+Bên Giông Lịch Sử Việt Nam	1
+Biệt	1
+Biêu Nhât Làm Văn-học Cân-đại	1
+Bỉnh Luân Vãn Học	1
+Bình-dương	1
+Bj1668	1
+Bô Quòc-phòng	1
+Bộ Vãn Hóa	1
+Bruxelles; Boston, Thanh Long	1
+Bruxelles: Thanh Long; Paris	1
+Bức Thư Bí-mật Của Cư Huỳnh- Thúc-kháng Trả Lời Cụ Kỳ-ngoại-hẩu Cường-đế Năm 1943	1
+Bx4640	1
+C	1
+C5y4 1963	1
+C6 1982	1
+C63 1978	1
+Các Nhà Văn Nữ Việt Nam	1
+Cách Mang Tháng Tám 1945	1
+Câp Nhât-hóa Đên 3ỏ-6-1964	1
+Chàu-dồc	1
+Chí Nam	1
+Chợ Lớn	1
+Công Nhân Miên Nam Viêt Nam Trong Cuôc Kháng Chiền Chồng Mỹ	1
+Công Trình Nghiên Cứu Khoa Học Y Dược Năm 1979	1
+Cuộc Nói Chuyện Thân Mật Với Cán Bộ Ầp Chiên Lược Cúa Ông Cồ Ván Chính Trị Ngô Đinh Nhu Tại Trung Tâm Nhân-trí-dũng Ngày 17- 4-1963	1
+Cuộc Tien Công Chien Lược Động Xuân	1
+D35 1973	1
+D5 1972	1
+D73m6 1977	1
+D8n8 1977	1
+Dà-nãng	1
+Đà-nẵng	1
+Đà-nẵng Trên Đường Xây Dựng	1
+Dân-sô Viêt- Nam Theo Đon-vị Hành-chánh Trong Năm 1964	1
+Dân-sô Viêt- Nam Theo Đon-vi Hành-chánh Trong Năm 1965	1
+Đáng Thanh Niên	1
+De La Mission	1
+De Rhodes	1
+Des Moines	1
+Di Tích Cách Mạng Việt Nam	1
+Diẽn Văn Của Thú-tướng Đọc Nhân Dịp Ký Niệm Đệ Nhât Chu-niên Thánh-lập Chánh-phú Ngô-đỉnh-diệm	1
+Điêu Tra Gia Đỉnh Vùng Thôn Quê Năm 1971	1
+Điêu-tra Dân-sô Tại Saigon Năm 1967	1
+Đò Dọc	1
+Dòi Mải O Phuong Dông	1
+Đời-nay	1
+Đỏng-phuong	1
+Downey	1
+Dran	1
+Đúc Quôc-trương Bao- Đại Hiẹrí-triệịí Quỏc-dản Têt Giáp-ngọ	1
+Ệỉaigon	1
+Entsiklopediíầ	1
+First Published In 1942	1
+Fort Smith Ar	1
+Gasnier	1
+Gia Định	1
+Giai Câp Cong Nhân Miên Bac Viet Nam Trong Thoi Ky Khoi Phuc	1
+Gịai Cãp Công Nhân Việt Nam	1
+Giai Phóng	1
+Giữa Hai Cuộc Cách-mạng 1789	1
+Gò Công	1
+Gv1195	1
+H3 1978	1
+H36h3 1972	1
+H3t45 Orien Viet  81 1620	1
+H48n5 1977	1
+H5427	1
+H5t55 I977 0rien Viet  80 9840	1
+H615 1978	1
+H626 Orien Viet  80 9842	1
+H66 1967	1
+H83 1978	1
+Hà Nỡi	1
+Hà Nội Đại Học Va Trung Học Chuyên Nghiệp	1
+Há Nộit Yhọc	1
+Hà Tây	1
+Hà-hội	1
+Ha-iiội	1
+Hà-íìọi	1
+Hà-nôị	1
+Hà-nỡi	1
+Hà-nộị	1
+Hắ-nội	1
+Hầ-nội	1
+Hả-nỏi	1
+Hả-nọi	1
+Hà-nội Kim Đông	1
+Hà-nội Sự Thật	1
+Hà-nội Thanh Niên	1
+Há-nội Tiêng-việt	1
+Hai Mươi Lám	1
+Hàn Mạc Tử	1
+Hc443 V5t55 Orien Viet  79 9843	1
+Hiệp-định Genève 1954	1
+Hj5165	1
+Hô Thơm Nguyên Huê Quang Trung 1752	1
+Hổ Thom Nguyên Huê Quang Trung 1752	1
+Hô Xè Mác Ti	1
+Hoa Thịnh Đôn	1
+Hoàng	1
+Hoàng Đạo	1
+Hoạt-đông Tài-chánh Cua Tinh-hạt	1
+Học Phi Ghi	1
+Hôi Ký Cua Vù Hùng Sinh Viên Luât Khoa Năm Thú Ba Đà Sông 1287	1
+Hq1749	1
+Hq1750	1
+Huỳnh Thúc Kháng	1
+Ihà-nôi	1
+In Lại Lân Thú 2 Theo Ban 1953	1
+In Lẩn 2	1
+In Lân Thứ 1	1
+In Lãn Thứ 1 Saigon	1
+In Lân Thú 2	1
+In Lẩn Thứ 4	1
+Irvine	1
+J3619	1
+K46 1970	1
+K5t48 1977	1
+Kẻ Thù Giâu Mặt	1
+Kềt Quá Nghiên Cửu Khoa Học Kỹ Thuật	1
+Kẽt Quá Nghiên Cứu Khoa Học Kỹ Thuật	1
+Khoa Học Xã Hội	1
+Khời Nghĩa Lam Son	1
+Khuôn Mật Quáng-ngài	1
+Ki Niệm 100 Nãm Năm Sinh Phan Bội Châu	1
+Ký Niệm 100 Năm Ngáy Pháp Chiẽm Nam Kỳ	1
+Ky Niệm 200 Năm Năm Sinh Nguyễn Du	1
+Kỷ Niệm Lẩn Thứ 250 Ngày Sinh Hái Thượng Làn Ống Lê Hừu Trác	1
+Ky-yêu Điên- Thoai	1
+L	1
+L296m3 1977	1
+L296t5 1980	1
+L296t6 1977	1
+L38 1980	1
+L38 1981	1
+L47 1980	1
+L49 1980	1
+L9h6 1950	1
+Lan	1
+Lan  Caster	1
+Lb2805	1
+Lê-van-tan	1
+Leroux	1
+Lịch Sứ Báo Chí Việt-nam Từ Khói Thúy Đền Năm 1930	1
+Lịch Su Chủ Quồc Ngũ	1
+Lịch Su Nôi Chiên O Việt Nam Tù 1771	1
+Literature	1
+Luân Cương Chính Trị Nảm 1930	1
+Lương Ngọc Quyền Và Cuộc Khổd- Nghĩa Thái-nguyên 1917	1
+M1824	1
+M35 1972	1
+M54 1967	1
+M56 1971	1
+M6g66 1980	1
+Mặt Trận Ngoai Giao Thời Kỳ Chòng Mỹ Cứu Nước	1
+Mát Xco Va	1
+Mặt-trận Báo-vệ Tự-do Vản-hóa	1
+Mảy Vân Đê Vãn Xuôi Việt Nam	1
+Mclean	1
+Militaire Administrative	1
+Missouri City	1
+Missouri City, Tx	1
+Môt Nãm Hoạt Đông	1
+Môt Nãm Hoạt Đông 7-7-1955	1
+Mountain View	1
+Mục-lục Phân-tích Tạp-chí Nam-phong	1
+Mục-lục Phân-tích Tạp-chí Việt- Ngữ	1
+N	1
+N44 1984	1
+N4414	1
+N4434	1
+N45 1968	1
+N45 1979	1
+N45a6 1983	1
+N46 1960	1
+N47 1982	1
+N48 1964	1
+N48 1983	1
+N53 1973	1
+N5478	1
+N5479	1
+N549t6 1977	1
+N55a8 1982	1
+N58 1977	1
+N58d67 1977	1
+N656n8 1983	1
+New Haven	1
+Nghĩa	1
+Người Chõng Hoàn Toàn	1
+Người Lính Đa Tinh	1
+Nguyễn Đinh Chiếu	1
+Nguyễn Thái-học	1
+Nguyễn Văn Vĩnh	1
+Nhá Cách Mạng Tạ Thu Thâu	1
+Nhà In Sao Mai	1
+Nhá In Vò Văn Vân	1
+Nha Vãn Khô Và Thư Viện Quôc Gia	1
+Nhân Loại Đã Thẫy Gì Tử Hoả Ngục Việt Nam	1
+Nhật Ký Cán Bộ Đoàn Trong Trường Họct	1
+Nhiệm Vụ Cơ Bản Của Kẽ Hoạch Nhà Nước 5 Năm 1976	1
+Nhiệm Vụ Kề Hoạch Nhà Nước Năm 1979	1
+Những Bí Mật Cách Mạng 1-11-1963	1
+Những Cái Chẽt Trong Cách Mạng 1-11-  1963	1
+Những Chăng Đường Lịch Sứ Của Đoàn	1
+Những Háng Châu Ngọc Trong Thi Ca Hiện Đại	1
+Những Người Sồng Mãi	1
+Nhừng Nhà Tho Hôm Nay	1
+Những Phản Ảnh Xã Hôi Và Chính Trị Trong Tiếu Thuyẽt Miền Bắc	1
+Những Quan Hệ Giữa Pháp Và Trung-hoa Về Vẵn Đề Việt-nam	1
+Những Tâm Hôn Saigon	1
+Niên-giám Văn-nghệ-sĩ Và Hiệp-hôi Vân-hóa Viêt-nam	1
+Nk4566	1
+Norwalk	1
+Nt	1
+Nước Việt-nam Dân Chủ Cộng Hòa 15 Tuối	1
+Nước Việt-nam Trên Con Đụờng Suy Vong	1
+Nữu Ước	1
+Orange	1
+P45  81 2130	1
+P48 1977	1
+P55 Orien Viet  80 9841	1
+Paris, San Jose	1
+Pham Hông Thái	1
+Phan Chu Trinh	1
+Phan Văn Trị	1
+Phát Huy Tinh Thẩn Cầu Học Cầu Tiên Bộ	1
+Phật-học Tòng-thơ	1
+Phê Bình Vãn Học Thê Hệ 1932	1
+Pho Thong	1
+Phóng Su Truyện	1
+Phong-trào Kháng Thuê Miên Trung Năm 1908	1
+Phú-thọ	1
+Phương Hướng	1
+Phương Hướng Nhiệm Vụ Và Mục Tiêu Của Kề Hoạch Nhà Nước Năm 1977	1
+Phương-giang	1
+Pl4251	1
+Pl4377	1
+Pl4379	1
+Pn6120	1
+Population Survey In Rural Areas In Viet Nam 1971	1
+Publications	1
+Q33 1976	1
+Quân Đội Nhân Dân	1
+Quang Trung Anh Hùng Dân Tộc	1
+Qui-nhơnj Tủ Sách Đẹp Quẽ Hương	1
+R3 1979	1
+Reprint Of The 1973	1
+S156v53 1981	1
+S2 1978	1
+S4819	1
+S8 Orien Viet  81 1467	1
+S84c6 1969	1
+S93 1979	1
+Sá Văn Hóa Thông Tin	1
+Sặigơn	1
+Saigon Phượng-giang	1
+San Francisco	1
+Silver Spring	1
+Sơ Tháo Lich Sứ Vãn Học Việt-nam	1
+Sông Và Viêt Với	1
+Springfield	1
+Sự Thật	1
+T45 1965	1
+T46 1900	1
+T56 1979	1
+T6414	1
+T664n8 1977	1
+T666 1978	1
+T68 1975	1
+T7 Orien Viet  81 1465	1
+T72 1970	1
+T77 Orien Viet 80 9842	1
+T774 Orient Viet 79 9841	1
+T78 1963	1
+T78 1977	1
+T8 1970	1
+T83 1981	1
+Tái Bán	1
+Tái Ban Ỉn 1	1
+Tái Bản Lẩn Thứ 2	1
+Tái Bán Lẩn Thứ 3	1
+Tái Bán Lần Thứ 5	1
+Tái Liệu Hội Nghị Cải Tiên Chữ Quóc Ngừ Tháng 9-1960	1
+Tám Mươi Bầy	1
+Thanh Hóa	1
+Thể Dục Thể Thao	1
+The Gioi	1
+Thè Vỵthà Nội	1
+Thi Ca Việt Nam Hiẹn Đại	1
+Thị Nghè	1
+Tho Ca Cách Mạng	1
+Tho Tù 1942	1
+Thó Việt Hiện Đại	1
+Thời Đại	1
+Thông Điệp Của Tông Thông Việt Nam Cộng Hòa Đọc Tai Quoc Hội Ngày 2 Tháng 10	1
+Thong Tin Hà-nội	1
+Thư-muc Vê Nguyẽn-du	1
+Thư-tịch Vê Khoa-học Xà-hôi Tại Việt-nam	1
+Thuận-hóa	1
+Timiặoara	1
+Tô-chúc Chính-quyên Dưới Triêu Lê Thánh-tông	1
+Tokyo	1
+Tôn Thọ Tường	1
+Trá-vinh	1
+Traduit Du Viet- Namien	1
+Trẩn Hưng Đạo	1
+Trí Đăng	1
+Truyện Hay	1
+Tù 1941	1
+Tử Triểu Đình Huê Đền Chiền Khu Việt Bắc	1
+Tu Vua Tu Đúc 1862	1
+Từ Yên-báy Đen Côn-lôn	1
+Tù-diên Saigon	1
+Tục Lụy	1
+Tue Ban	1
+Tùng Thiện Vương	1
+Twenty	1
+U2l5196	1
+V32 1982	1
+V47v48 1980	1
+V5 1978	1
+V5 1981	1
+V52 1960	1
+V52t5 1980	1
+V53 1963	1
+V53 1968	1
+V53 1973	1
+V53m56 1973	1
+V564c6 1980	1
+V5c39 1980	1
+V5c45 1974	1
+V5d587 1983	1
+V5h56 1970	1
+V5h62 1976	1
+V5k47 Orien Viet  81 1620	1
+V5l42 1970	1
+V5l4335	1
+V5l53 1977	1
+V5n46 1979	1
+V5n468 1983	1
+V5n47 1969	1
+V5s9 1980	1
+V5t45 1980	1
+V5t6 Orien Viet  80 9841	1
+V5t72 1962	1
+V5t73 1960	1
+V5v36 Orien Viet 80 9840	1
+V5v4 1980	1
+V5v6 1981	1
+V6 1979	1
+V8 1980	1
+V85 1979	1
+Vãn Chương Nam Bộ Và Cuộc Kháng Pháp	1
+Vãn Hóa	1
+Van Hoc	1
+Vãn Học	1
+Văn Học Giái Phóng Miẽn Nam	1
+Ván Nghệ Giai Phóng	1
+Van Tho Cách Mang Viêt-nam Dàu Thề Ky Xx	1
+Văn Thơ Cách Mạng Việt-nam Đẩu The Ký Xx	1
+Văn-học Việt-nam Thê-ky Xix	1
+Vản-tươi	1
+Vancouver	1
+Vienna	1
+Việt Nam Những Sư Kiện	1
+Việt-sứ Toàn-thư	1
+Vĩnh Phú	1
+W6d36 1972	1
+W6l4 1975	1
+Wa Etsu Ei Jiten	1
+Waterbury	1
+Westminster	1
+X8 1982	1
+Xà Hội	1
+Xứ Ai-lao Vá Điều-ước Pháp-lào Ngày 19 Tháng Báy 1949	1
+Y8m3 1978	1
+Z3228	1
+Z5075	1
+Z7405	1
+(blank)	626
