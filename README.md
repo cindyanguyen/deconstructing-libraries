@@ -13,4 +13,7 @@ This project focuses on a complex non-English language historical data source--b
 
 ##Overview
 
-For the complete project report, read the file "Shedlock_Nguyen_Final_Report-Updated-12-2016.pdf" and see slides "slides-updated-12-2016.pdf". 
+##Further Reading
+* For the complete project report, read the file "Shedlock_Nguyen_Final_Report-Updated-12-2016.pdf" and see slides "slides-updated-12-2016.pdf". 
+* Blog Post description ["A Humanist does Data Science: Introduction to the 'Deconstructing Libraries' Project"](https://cindyanguyen.com/2016/12/02/a-humanist-does-data-science-deconstructing-libraries-project/#more-783)
+* Deconstructing Data Science Course by Professor David Bamman [Website](http://courses.ischool.berkeley.edu/i290-dds/s16/) 
