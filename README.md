@@ -20,6 +20,7 @@ Our hypotheses rest upon the important underlying assumption that a publication 
 
 ##Methods
 We employed three methods of analysis:
+
 1. Frequency Counts comparing works by publication city (Saigon, Hanoi), and Library of Congress Classification
 2. Naive Bayes probability of word in title conditioned on city to understand the words in a title most characteristic of a publication city
 3. Naive Bayes to predict an unknown city based on the words of a title
