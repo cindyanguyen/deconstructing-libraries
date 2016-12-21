@@ -11,6 +11,10 @@ cindynguyen35@berkeley.edu
 ##Introduction
 This project focuses on a complex non-English language historical data source--bibliographies of the United States Library of Congress collections of Vietnamese language materials from 1979-1985. We employ a dual approach to this project: a contextualized historical reading and machine learning methods to understand the language, political leanings, and content of the collections and how they change over time.
 
+For our project, we sought to contribute new work within digital humanities not drawn from data of convenience. In other words, our data source was messy, non-English, and never before used to conduct this this type of quantitative analysis.
+
+Our data source was the published bibliography of Vietnamese holdings in the Library of Congress from 1979-1985. This bibliography was published in two parts, in 1982 and 1987 (supplement), digitized by University of Michigan, and available on HathiTrust Digital Library (HathiTrust [1982](http://hdl.handle.net/2027/mdp.39015086926659), [1987](http://hdl.handle.net/2027/mdp.39015028416181))
+
 ##Hypotheses
 Focusing on a small slice of the research questions, we examine the relationship between the titles and their city of publication within the Library of Congress collections of Vietnamese language materials retrospectively collected up to 1979 and 1979-1985. We hypothesize that different publication locations will have different distribution of topics. 
 
@@ -19,7 +23,7 @@ To operationalize our hypothesis into a probabilistic problem, we ask the follow
 Our hypotheses rest upon the important underlying assumption that a publication title can reveal important information about a work’s content, potential audience, and literary style. Although not a substitute for reading the entirety of the work, a work’s title reveals negotiated information between the author, the perceived audience, the publisher, and in this case, the library collection.
 
 ##Methods
-We employed three methods of analysis:
+We employed the following methods of analysis:
 
 1. Frequency Counts comparing works by publication city (Saigon, Hanoi), and Library of Congress Classification
 2. Naive Bayes probability of word in title conditioned on city to understand the words in a title most characteristic of a publication city
